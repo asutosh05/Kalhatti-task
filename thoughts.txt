@@ -1,0 +1,15 @@
+Problem 1: Why is there a lot of hype around blockchain 
+Ands: To ans this question I have a blog is written by me link is below.
+https://medium.com/@asutosh05/why-is-there-a-lot-of-hype-around-blockchain-a8ed36afd31
+
+Problem 2: What got you fascinated with blockchain and why? 
+ Ans: To ans this question I have a blog is written by me link is below.
+https://medium.com/@asutosh05/what-i-am-fascinated-with-blockchain-and-why-23b190325162
+
+
+Problem 3: What is the most pressing challenge in blockchain? 
+Ans: As per the previous blog, Blockchain has many real-world applications, but till now in 2018 challenges in blockchain is COST,
+to building eco system need lots of computational power.
+If a small business want to use blockchain for his business so its impossible for him to manage the cost of the eco system.
+In current time public blockchain platform has very high transaction cost, Developers are constantly discovering methods to
+lower the cost and its happening for example off chain transition ,lightning network , new consensus protocol etc.    
