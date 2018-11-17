@@ -13,3 +13,26 @@ to building eco system need lots of computational power.
 If a small business want to use blockchain for his business so its impossible for him to manage the cost of the eco system.
 In current time public blockchain platform has very high transaction cost, Developers are constantly discovering methods to
 lower the cost and its happening for example off chain transition ,lightning network , new consensus protocol etc.    
+
+Bonous 4:
+
+POW VS POS
+
+POW:
+Proof of Work is a consensus protocol, which use to confirm transactions and process new block to the chain.
+Here miners compete for against each other to complete the transactions by solving a mathematical problem on the network and get the reward.
+
+Its required more power the pos, because miner competes for each other to solve the puzzle, the cost is more.
+
+Anyone can join the network and starts mining.
+
+POS:
+Proof of Stake is consensus protocol, where the creator of the block is chosen by a determinastic way depends on the stake, vote etc.
+there is no block reward so, miner takes the transaction fee.
+
+
+Here miners are selected by some process, only selected miners only mine so power consumption is low.
+
+
+Which is better:
+Both have their own advantages like POS is more scalable , POW is more secure then POS.
